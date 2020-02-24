@@ -22,7 +22,9 @@ MaterialDesignThemes.2.6.0
 
 ☢💀剪切板内允许存在同样的文本
 
-
+Github地址：https://github.com/hanbings/CopyX-Lite
 
 ***本项目仅作学习
+
+
 
