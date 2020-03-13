@@ -25,10 +25,10 @@ MaterialDesignThemes.2.6.0
 已知BUG：
 
 ☢💀只能获取文本，当剪切板存在图片的同时，可能它会停止工作
+（此项已更改了安全机制，如果存在图片的时候，会忽略图片而获取文字）
 
 Github地址：https://github.com/hanbings/CopyX-Lite
 
-***本项目仅作学习
-
+***本项目仅作学习，基于GPL3.0协议进行开源
 
 
