@@ -19,3 +19,24 @@ C:\CodeHub\Visual Studio Code\C#\CopyX\obj\Release\CopyX.csproj.GenerateResource
 C:\CodeHub\Visual Studio Code\C#\CopyX\obj\Release\CopyX.csproj.CopyComplete
 C:\CodeHub\Visual Studio Code\C#\CopyX\obj\Release\CopyX.exe
 C:\CodeHub\Visual Studio Code\C#\CopyX\obj\Release\CopyX.pdb
+C:\Users\32190\Desktop\CopyX-Lite-master\bin\Release\CopyX.exe.config
+C:\Users\32190\Desktop\CopyX-Lite-master\bin\Release\CopyX.exe
+C:\Users\32190\Desktop\CopyX-Lite-master\bin\Release\CopyX.pdb
+C:\Users\32190\Desktop\CopyX-Lite-master\bin\Release\MaterialDesignColors.dll
+C:\Users\32190\Desktop\CopyX-Lite-master\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\32190\Desktop\CopyX-Lite-master\bin\Release\MaterialDesignColors.pdb
+C:\Users\32190\Desktop\CopyX-Lite-master\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\32190\Desktop\CopyX-Lite-master\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\32190\Desktop\CopyX-Lite-master\obj\Release\CopyX.csprojAssemblyReference.cache
+C:\Users\32190\Desktop\CopyX-Lite-master\obj\Release\MainWindow.g.cs
+C:\Users\32190\Desktop\CopyX-Lite-master\obj\Release\App.g.cs
+C:\Users\32190\Desktop\CopyX-Lite-master\obj\Release\CopyX_MarkupCompile.cache
+C:\Users\32190\Desktop\CopyX-Lite-master\obj\Release\CopyX_MarkupCompile.lref
+C:\Users\32190\Desktop\CopyX-Lite-master\obj\Release\App.baml
+C:\Users\32190\Desktop\CopyX-Lite-master\obj\Release\MainWindow.baml
+C:\Users\32190\Desktop\CopyX-Lite-master\obj\Release\CopyX.g.resources
+C:\Users\32190\Desktop\CopyX-Lite-master\obj\Release\CopyX.Properties.Resources.resources
+C:\Users\32190\Desktop\CopyX-Lite-master\obj\Release\CopyX.csproj.GenerateResource.cache
+C:\Users\32190\Desktop\CopyX-Lite-master\obj\Release\CopyX.csproj.CopyComplete
+C:\Users\32190\Desktop\CopyX-Lite-master\obj\Release\CopyX.exe
+C:\Users\32190\Desktop\CopyX-Lite-master\obj\Release\CopyX.pdb

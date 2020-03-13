@@ -21,8 +21,8 @@
             </StackPanel>
         </materialDesign:ColorZone>
         <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="374" VerticalAlignment="Top" Width="302" SelectionChanged="listBox_SelectionChanged" Margin="0,44,-10,0">
-            <ListBoxItem x:Name="Parameter01" Content="作者在这里哇 Hanbings 3219065882@qq.com"/>
-            <ListBoxItem x:Name="Parameter02" Content="Github也在这里啦"/>
+            <ListBoxItem x:Name="Parameter01" Content="作者在这里 Hanbings 3219065882@qq.com"/>
+            <ListBoxItem x:Name="Parameter02" Content="Github也在这里"/>
             <ListBoxItem x:Name="Parameter03" Content="https://github.com/hanbings/CopyX-Lite"/>
         </ListBox>
         <Button
